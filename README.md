@@ -1,4 +1,4 @@
-# Decision-Theory-AI-and-Analysis
+# Vidflix User Analytics and Decision Support
 
 Based on the aforementioned data that asked to answer the following 
 questions.
